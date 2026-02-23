@@ -1,0 +1,171 @@
+{
+  "_bookings-B3LFTGTR.js": {
+    "file": "assets/bookings-B3LFTGTR.js",
+    "name": "bookings"
+  },
+  "_chunk-JZWAC4HX-CSZkG_88.js": {
+    "file": "assets/chunk-JZWAC4HX-CSZkG_88.js",
+    "name": "chunk-JZWAC4HX"
+  },
+  "_index-Bnl-ntlQ.js": {
+    "file": "assets/index-Bnl-ntlQ.js",
+    "name": "index",
+    "imports": [
+      "_chunk-JZWAC4HX-CSZkG_88.js",
+      "_index-lWp3eB-Q.js"
+    ]
+  },
+  "_index-lWp3eB-Q.js": {
+    "file": "assets/index-lWp3eB-Q.js",
+    "name": "index",
+    "imports": [
+      "_chunk-JZWAC4HX-CSZkG_88.js"
+    ]
+  },
+  "_salons-jfoW7nfX.js": {
+    "file": "assets/salons-jfoW7nfX.js",
+    "name": "salons"
+  },
+  "_session-3ROweJ-k.js": {
+    "file": "assets/session-3ROweJ-k.js",
+    "name": "session",
+    "imports": [
+      "_chunk-JZWAC4HX-CSZkG_88.js"
+    ]
+  },
+  "_useAuth-DHhIOXXs.js": {
+    "file": "assets/useAuth-DHhIOXXs.js",
+    "name": "useAuth",
+    "imports": [
+      "_chunk-JZWAC4HX-CSZkG_88.js"
+    ]
+  },
+  "node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx": {
+    "file": "assets/entry.client-C5xRyJay.js",
+    "name": "entry.client",
+    "src": "node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx",
+    "isEntry": true,
+    "imports": [
+      "_chunk-JZWAC4HX-CSZkG_88.js",
+      "_index-lWp3eB-Q.js"
+    ]
+  },
+  "src/app/__create/not-found.tsx?__react-router-build-client-route": {
+    "file": "assets/not-found-Ccm2RzSa.js",
+    "name": "not-found",
+    "src": "src/app/__create/not-found.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-JZWAC4HX-CSZkG_88.js"
+    ]
+  },
+  "src/app/account/signin/page.jsx?__react-router-build-client-route": {
+    "file": "assets/page-DPpJnAnj.js",
+    "name": "page",
+    "src": "src/app/account/signin/page.jsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-JZWAC4HX-CSZkG_88.js",
+      "_useAuth-DHhIOXXs.js"
+    ]
+  },
+  "src/app/book/confirm/page.jsx?__react-router-build-client-route": {
+    "file": "assets/page-CzRxPWa4.js",
+    "name": "page",
+    "src": "src/app/book/confirm/page.jsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-JZWAC4HX-CSZkG_88.js",
+      "_session-3ROweJ-k.js",
+      "_index-Bnl-ntlQ.js",
+      "_salons-jfoW7nfX.js",
+      "_bookings-B3LFTGTR.js",
+      "_index-lWp3eB-Q.js"
+    ]
+  },
+  "src/app/book/page.jsx?__react-router-build-client-route": {
+    "file": "assets/page-aGLD93iL.js",
+    "name": "page",
+    "src": "src/app/book/page.jsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-JZWAC4HX-CSZkG_88.js",
+      "_salons-jfoW7nfX.js"
+    ]
+  },
+  "src/app/book/time/page.jsx?__react-router-build-client-route": {
+    "file": "assets/page-CmXkKcKX.js",
+    "name": "page",
+    "src": "src/app/book/time/page.jsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-JZWAC4HX-CSZkG_88.js",
+      "_salons-jfoW7nfX.js"
+    ]
+  },
+  "src/app/manage-bookings/page.jsx?__react-router-build-client-route": {
+    "file": "assets/page-DPQRoybC.js",
+    "name": "page",
+    "src": "src/app/manage-bookings/page.jsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-JZWAC4HX-CSZkG_88.js",
+      "_bookings-B3LFTGTR.js"
+    ]
+  },
+  "src/app/my-bookings/page.jsx?__react-router-build-client-route": {
+    "file": "assets/page-BCvm5FAh.js",
+    "name": "page",
+    "src": "src/app/my-bookings/page.jsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-JZWAC4HX-CSZkG_88.js",
+      "_session-3ROweJ-k.js",
+      "_bookings-B3LFTGTR.js"
+    ]
+  },
+  "src/app/page.jsx?__react-router-build-client-route": {
+    "file": "assets/page-DJgRM_Xx.js",
+    "name": "page",
+    "src": "src/app/page.jsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-JZWAC4HX-CSZkG_88.js",
+      "_salons-jfoW7nfX.js"
+    ]
+  },
+  "src/app/root.tsx?__react-router-build-client-route": {
+    "file": "assets/root-DS6CFd-M.js",
+    "name": "root",
+    "src": "src/app/root.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-JZWAC4HX-CSZkG_88.js",
+      "_index-lWp3eB-Q.js",
+      "_session-3ROweJ-k.js",
+      "_index-Bnl-ntlQ.js",
+      "_useAuth-DHhIOXXs.js"
+    ],
+    "css": [
+      "assets/root-eNdkdICg.css"
+    ]
+  },
+  "src/app/salon-dashboard/page.jsx?__react-router-build-client-route": {
+    "file": "assets/page-DK9R052o.js",
+    "name": "page",
+    "src": "src/app/salon-dashboard/page.jsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-JZWAC4HX-CSZkG_88.js"
+    ]
+  },
+  "src/app/salon-setup/page.jsx?__react-router-build-client-route": {
+    "file": "assets/page-CfmPllZc.js",
+    "name": "page",
+    "src": "src/app/salon-setup/page.jsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-JZWAC4HX-CSZkG_88.js"
+    ]
+  }
+}

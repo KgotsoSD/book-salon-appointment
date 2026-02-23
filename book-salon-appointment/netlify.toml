@@ -1,0 +1,9 @@
+# Deploy the web app from the monorepo
+[build]
+base = "apps/web"
+command = "npm run build"
+publish = "build/client"
+
+[dev]
+base = "apps/web"
+command = "npm run dev"
